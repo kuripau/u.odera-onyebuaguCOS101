@@ -2,7 +2,7 @@ use std::io::Write;
 
 
 fn main() {
-   let  headings = "Larger, Stout, Non-ALcholic";
+   let  headings = "Larger, Stout, Non-Alcholic";
    let data_1 = "\n33Export, Legend, Maltina";
    let data_2 = "\n Desperados, Turbo King, Amstel Malta";
    let data_3 = "\n Goldberg, Williams, Malta Gold";
